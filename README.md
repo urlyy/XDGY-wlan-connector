@@ -85,9 +85,11 @@ python main.py
 ![alt text](assets/img1.png)
 
 弹出的新面板如下：
+
 ![alt text](assets/img4.png)
 
 如果没有勾选也没事，如下图操作也可以打开相同面板。
+
 ![alt text](assets/img2.png)
 
 
